@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="car_Avoidance_app",
+    name="car_Avoidance",
     version="0.1.0",
     author="ryueiki",
     author_email="your.email@example.com",
