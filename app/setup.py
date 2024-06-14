@@ -8,7 +8,7 @@ setup(
     description="A simple example package",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/eiki7/my_package",
+    url="https://github.com/eiki7/car_Avoidance",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
